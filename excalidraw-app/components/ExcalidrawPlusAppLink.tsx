@@ -10,7 +10,7 @@ export const ExcalidrawPlusAppLink = () => {
         import.meta.env.VITE_APP_PLUS_APP
       }?utm_source=excalidraw&utm_medium=app&utm_content=signedInUserRedirectButton#excalidraw-redirect`}
       target="_blank"
-      rel="noopener"
+      rel="noopener noreferrer"
       className="plus-button"
     >
       Go to Excalidraw+

@@ -122,10 +122,9 @@ export class Debug {
     name = "default",
   ) => {
     return (...args: T) => {
-      // eslint-disable-next-line no-console
       console.time(name);
       const ret = fn(...args);
-      // eslint-disable-next-line no-console
+
       console.timeEnd(name);
       return ret;
     };
