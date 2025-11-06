@@ -1,9 +1,6 @@
 # Feature Specification: Upgrade NextJS to 16.0.1
 
-**Feature Branch**: `002-upgrade-nextjs`
-**Created**: November 6, 2025
-**Status**: Draft
-**Input**: User description: "Upgrade NextJS to version 16.0.1"
+**Feature Branch**: `002-upgrade-nextjs` **Created**: November 6, 2025 **Status**: Draft **Input**: User description: "Upgrade NextJS to version 16.0.1"
 
 ## User Scenarios & Testing _(mandatory)_
 

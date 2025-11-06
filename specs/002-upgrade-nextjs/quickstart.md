@@ -11,6 +11,7 @@
 7. Commit and push changes.
 
 ## Notes
+
 - Ensure all dependencies are compatible with NextJS 16.0.1.
 - Review changelogs for breaking changes and required code updates.
 - Validate container builds and health endpoints post-upgrade.
